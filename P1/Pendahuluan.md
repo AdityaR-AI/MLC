@@ -3,7 +3,7 @@ Klik link dibawah ini untuk kembali ke menu utama:
 > [!TIP]
 > Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
 
-# Pendahuluan
+## Pendahuluan
 
 ### 1.0. Instalasi Jupyter Noterbook, Lakukan download dan instalasi:
   
