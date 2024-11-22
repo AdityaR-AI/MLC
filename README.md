@@ -16,4 +16,4 @@ Silahkan klik link dibawah ini tuntuk menuju tugas yang inign dilihat:
 > Tugas 4 - Naive Bayes Classification [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P4/Naive%20Bayes%20Classification.md)
 
 > [!NOTE]
-> Tugas 5 - K Nearest Neigbor & Support Vector Machine [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P5/K%20Nearest%20Neigbor%20%26%20Support%20Vector%20Machine.md)
+> Tugas 5 - K Nearest Neigbor & Support Vector Machine [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P5/K%20Nearest%20Neigbor%20&%20Support%20Vector%20Machine_I.md)
