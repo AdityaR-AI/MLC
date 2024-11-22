@@ -1,3 +1,10 @@
+Klik link dibawah ini untuk kembali ke menu utama:
+
+> [!TIP]
+> Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
+
+## Pendahuluan
+
 ### 1.0. Instalasi Jupyter Noterbook, Lakukan download dan instalasi:
   
 > Saya disini menggunakan Anaconda daripada menginstal Jupyter langsung karena dialamnya sudah terdapat beragam Library dan Jupyter itu sendiri
@@ -624,7 +631,10 @@ print(l2_normalised_data)
 
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P1/pics/1e31.png?raw=true" alt="SS" width="40%"/>
 
+Klik link dibawah ini untuk kembali ke menu utama:
 
+> [!TIP]
+> Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
 
 
 
