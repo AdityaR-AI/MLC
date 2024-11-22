@@ -1,11 +1,11 @@
 > [!TIP]
 > Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
 
-# Naive Bayes Classification
+## Naive Bayes Classification
 
 ### 1.0. Lakukan praktik dari https://youtu.be/Sj1ybuDDf9I?si=hCajHe1zasTQ9HGY , buat screenshot dengan nama kalian pada coding, kumpulkan dalam bentuk pdf, dari kegiatan ini:
 
-#### 1.1. Pengenalan Bayes Theorem | Teori Bayes | Conditional Probability
+### 1.1. Pengenalan Bayes Theorem | Teori Bayes | Conditional Probability
 
 **Baye’s Theorem**
 
