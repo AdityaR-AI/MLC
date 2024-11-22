@@ -7,10 +7,10 @@ Silahkan klik link dibawah ini tuntuk menuju tugas yang inign dilihat:
 > Tugas 1 - Pendahuluan [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P1/Pendahuluan.md)
 
 > [!NOTE]
-> Tugas 2 - Regresi [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P2/Regresi.md)
+> Tugas 2 - Regresi [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P2/Regresi_I.md)
 
 > [!NOTE]
-> Tugas 3 - Decision Tree & Random Forest [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P3/Decision%20Tree%20%26%20Random%20Fores.md)
+> Tugas 3 - Decision Tree & Random Forest [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P3/Decision%20Tree%20%26%20Random%20Fores_I.md)
 
 > [!NOTE]
 > Tugas 4 - Naive Bayes Classification [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P4/Naive%20Bayes%20Classification.md)
