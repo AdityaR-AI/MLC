@@ -1,6 +1,6 @@
-# Regresi
+## Regresi
 
-## Logistic Regression pada Binary Classification Task
+### Logistic Regression pada Binary Classification Task
 
 > Materi ini terbagi menjadi 3 Part, berikut linknya:
 
