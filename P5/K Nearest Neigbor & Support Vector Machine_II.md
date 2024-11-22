@@ -1,6 +1,6 @@
 ## K Nearest Neigbor & Support Vector Machine
 
-### Classification dengan KNN | K-Nearest Neighbours
+### Support Vector Machine Classification | SVM
 
 > Materi ini terbagi menjadi 2 Part, berikut linknya:
 
