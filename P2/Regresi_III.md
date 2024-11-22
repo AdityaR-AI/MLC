@@ -1,17 +1,23 @@
-## Logistic Regression pada Binary Classification Task
 
 > Materi ini terbagi menjadi 3 Part, berikut linknya:
 
 Silahkan klik link dibawah ini tuntuk menuju tugas yang inign dilihat:
 
 > [!NOTE]
-> Part 1 - Simple Linear Regression dengan Scikit-Learn [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P2/Regresi_I.md)
+> Part 1 - Simple Linear Regression dengan Scikit-Learn [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P2/Regresi_I.md)
 
 > [!NOTE]
-> Part 2 - Multiple Linear Regression & Polynomial Regression [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P2/Regresi_II.md)
+> Part 2 - Multiple Linear Regression & Polynomial Regression [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P2/Regresi_II.md)
 
 > [!NOTE]
-> Part 3 - Logistic Regression pada Binary Classification Task [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P2/Regresi_III.md)
+> Part 3 - Logistic Regression pada Binary Classification Task [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P2/Regresi_III.md)
+
+Klik link dibawah ini untuk kembali ke menu utama:
+
+> [!TIP]
+> Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
+
+## Logistic Regression pada Binary Classification Task
 
 ### 3.0. Lakukan praktek dari https://youtu.be/oe7DW4rSH1o?si=H-PZJ9rs9-Kab-Ln  dan buat screen shot hasil run. Praktek tersebut yaitu:
 
@@ -344,5 +350,7 @@ plt.show()  # Menampilkan plot
 
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P2/pics/2c14.png?raw=true" alt="SS" width="60%"/>
 
+> [!TIP]
+> Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
 
 
