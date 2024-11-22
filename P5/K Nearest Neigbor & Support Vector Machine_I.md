@@ -1,4 +1,6 @@
-## Classification dengan KNN | K-Nearest Neighbours
+## K Nearest Neigbor & Support Vector Machine
+
+### Classification dengan KNN | K-Nearest Neighbours
 
 > Materi ini terbagi menjadi 2 Part, berikut linknya:
 
