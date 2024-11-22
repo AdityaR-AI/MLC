@@ -1,11 +1,10 @@
-## Classification dengan KNN | K-Nearest Neighbours
 
 > Materi ini terbagi menjadi 2 Part, berikut linknya:
 
 Silahkan klik link dibawah ini tuntuk menuju tugas yang inign dilihat:
 
 > [!NOTE]
-> Part 1 - Classification dengan KNN | K-Nearest Neighbours [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P5/K%20Nearest%20Neigbor%20&%20Support%20Vector%20Machine_I.md)
+> Part 1 - Classification dengan KNN | K-Nearest Neighbours [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P5/K%20Nearest%20Neigbor%20&%20Support%20Vector%20Machine_I.md)
 
 > [!NOTE]
 > Part 2 - Support Vector Machine Classification | SVM [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P5/K%20Nearest%20Neigbor%20%26%20Support%20Vector%20Machine_II.md)
@@ -14,6 +13,8 @@ Klik link dibawah ini untuk kembali ke menu utama:
 
 > [!TIP]
 > Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
+
+## Classification dengan KNN | K-Nearest Neighbours
 
 ### 2.0. Support Vector Machine (SVM). Lakukan praktik dari https://youtu.be/z69XYXpvVrE?si=KR_hDSlwjGIMcT0w , buat screenshot dengan nama kalian pada coding, kumpulkan dalam bentuk pdf, dari kegiatan ini:
 
