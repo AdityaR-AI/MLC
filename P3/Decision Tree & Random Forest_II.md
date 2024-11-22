@@ -10,6 +10,11 @@ Silahkan klik link dibawah ini tuntuk menuju tugas yang inign dilihat:
 > [!NOTE]
 > Part 2 - Random Forest Classification [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P3/Decision%20Tree%20%26%20Random%20Forest_II.md)
 
+Klik link dibawah ini untuk kembali ke menu utama:
+
+> [!TIP]
+> Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
+
 ### 2.0. Lakukan praktik dari https://youtu.be/yKovaQ6tyV8?si=HnHG6kcoCsDwvo_0 , buat screenshot dengan nama kalian pada coding, kumpulkan dalam bentuk pdf, dari kegiatan ini: 
 
 ### 2.1. Proses training model Machine Learning secara umum
@@ -240,6 +245,12 @@ print(classification_report(y_test, y_pred))
 ```
 
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P3/pics/3b4.png?raw=true" alt="SS" width="60%"/>
+
+Klik link dibawah ini untuk kembali ke menu utama:
+
+> [!TIP]
+> Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
+
 
 
 
