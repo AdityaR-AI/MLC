@@ -1,6 +1,6 @@
-# Regresi
+## Regresi
 
-## Simple Linear Regression dengan Scikit-Learn
+### Simple Linear Regression dengan Scikit-Learn
 
 > Materi ini terbagi menjadi 3 Part, berikut linknya:
 
