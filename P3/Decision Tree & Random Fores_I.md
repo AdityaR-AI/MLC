@@ -5,7 +5,7 @@
 Silahkan klik link dibawah ini tuntuk menuju tugas yang inign dilihat:
 
 > [!NOTE]
-> Part 1 - Decision Tree Classification [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P2//Decision%20Tree%20%26%20Random%20Fores_I.md)
+> Part 1 - Decision Tree Classification [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P3/Decision%20Tree%20%26%20Random%20Fores_I.md)
 
 > [!NOTE]
 > Part 2 - Random Forest Classification [Pages Link](https://github.com/AdityaR-AI/MLC/blob/main/P2//Decision%20Tree%20%26%20Random%20Fores_II.md)
