@@ -1,3 +1,4 @@
+## Simple Linear Regression dengan Scikit-Learn
 
 > Materi ini terbagi menjadi 3 Part, berikut linknya:
 
@@ -16,8 +17,6 @@ Klik link dibawah ini untuk kembali ke menu utama:
 
 > [!TIP]
 > Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
-
-## Simple Linear Regression dengan Scikit-Learn
 
 ### 1.0. Lakukan praktek dari https://youtu.be/lcjq7-2zMSA?si=f4jWJR6lY8y0BZKl  dan buat screen shot hasil run. Praktek tersebut yaitu:
 
