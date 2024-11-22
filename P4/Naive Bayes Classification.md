@@ -1,3 +1,6 @@
+> [!TIP]
+> Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
+
 ## Naive Bayes Classification
 
 ### 1.0. Lakukan praktik dari https://youtu.be/Sj1ybuDDf9I?si=hCajHe1zasTQ9HGY , buat screenshot dengan nama kalian pada coding, kumpulkan dalam bentuk pdf, dari kegiatan ini:
@@ -195,6 +198,8 @@ model.score(X_test, y_test)
 
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P4/pics/4b5.png?raw=true" alt="SS" width="30%"/>
 
+> [!TIP]
+> Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
 
 
 
