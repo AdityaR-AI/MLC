@@ -1,7 +1,7 @@
 # Machine Learning Course Respository
 > Ini adalah repo yang berisi tugas Machine Learning
 
-Silahkan klik link dibawah ini tuntuk menuju tugas yang inign dilihat:
+Silahkan klik link dibawah ini tuntuk menuju tugas yang ingin dilihat:
 
 > [!NOTE]
 > Tugas 1 - Pendahuluan [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P1/Pendahuluan.md)
