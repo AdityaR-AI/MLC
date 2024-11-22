@@ -1,3 +1,4 @@
+## Multiple Linear Regression & Polynomial Regression
 
 > Materi ini terbagi menjadi 3 Part, berikut linknya:
 
@@ -16,8 +17,6 @@ Klik link dibawah ini untuk kembali ke menu utama:
 
 > [!TIP]
 > Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
-
-## Multiple Linear Regression & Polynomial Regression
 
 ### 2.0. Lakukan praktek dari https://youtu.be/nWJUJenAyB8?si=BQDzWwrMnr8jtzpV  dan buat screen shot hasil run. Praktek tersebut yaitu:
 
