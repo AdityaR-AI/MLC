@@ -1,3 +1,4 @@
+## Logistic Regression pada Binary Classification Task
 
 > Materi ini terbagi menjadi 3 Part, berikut linknya:
 
@@ -16,8 +17,6 @@ Klik link dibawah ini untuk kembali ke menu utama:
 
 > [!TIP]
 > Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
-
-## Logistic Regression pada Binary Classification Task
 
 ### 3.0. Lakukan praktek dari https://youtu.be/oe7DW4rSH1o?si=H-PZJ9rs9-Kab-Ln  dan buat screen shot hasil run. Praktek tersebut yaitu:
 
