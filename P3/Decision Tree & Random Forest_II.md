@@ -1,6 +1,6 @@
-# Decision Tree & Random Fores
+## Decision Tree & Random Fores
 
-## Random Forest Classification
+### Random Forest Classification
 
 > Materi ini terbagi menjadi 2 Part, berikut linknya:
 
