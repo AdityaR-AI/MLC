@@ -76,9 +76,7 @@ print(f"NPM: {npm}")
 ### 3.0. Buatlah akun di https://www.kaggle.com
 	
   1. Buka Kaggle
-	
-  2. Pilih Sign Up, dan ikuti langkahnya
-	
+  2. Pilih Sign Up, dan ikuti langkahnya	
   3. Akun berhasil dibuat
 
 ### 3.1. Buat screenshot sebagai jawaban nomor 3 di Tugas Pertemuan 1!
@@ -88,10 +86,8 @@ print(f"NPM: {npm}")
 ### 4.0. Buatlah akun di https://github.com
 	
   1. Bukaa Github
-     
-	2. Pilih Sign Up, dan ikuti langkahnya
- 
-	3. Akun berhasil dibuat
+  2. Pilih Sign Up, dan ikuti langkahnya
+  3. Akun berhasil dibuat
  
 ### 4.1. Buat screenshot sebagai jawaban nomor 4 di Tugas Pertemuan 1!
 
