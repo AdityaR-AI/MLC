@@ -27,6 +27,7 @@ Silahkan klik link dibawah ini untuk menuju Step yang ingin dilihat:
 2.	**Pergi ke direktori web akan disimpan**
 
 **Cd [directory route]**
+
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b2.png?raw=true" alt="SS" width="55%"/>
 
 3.	**Instal virtualenv dan aktifkan, paste kode berikut ke anaconda prompt**
