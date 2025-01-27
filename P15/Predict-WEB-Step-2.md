@@ -28,7 +28,7 @@ Silahkan klik link dibawah ini untuk menuju Step yang ingin dilihat:
 
 **Cd [directory route]**
 
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b2.png?raw=true" alt="SS" width="55%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b2.png?raw=true" alt="SS" width="65%"/>
 
 3.	**Instal virtualenv dan aktifkan, paste kode berikut ke anaconda prompt**
 
@@ -40,9 +40,9 @@ virtualenv env
 env\Scripts\activate.bat
 
 ```
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b3.png?raw=true" alt="SS" width="55%"/>
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b4.png?raw=true" alt="SS" width="55%"/>
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b5.png?raw=true" alt="SS" width="55%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b3.png?raw=true" alt="SS" width="65%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b4.png?raw=true" alt="SS" width="65%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b5.png?raw=true" alt="SS" width="65%"/>
 
 4.	**Instal library yang dibutuhkan sesuaikan dengan versi saat membuat model.**
 
@@ -52,8 +52,8 @@ pip install Flask==3.0.3 Flask-SQLAlchemy
 pip install scikit-learn==1.5.1
 
 ```
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b6.png?raw=true" alt="SS" width="55%"/>
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b7.png?raw=true" alt="SS" width="55%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b6.png?raw=true" alt="SS" width="75%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b7.png?raw=true" alt="SS" width="75%"/>
 
 5.	**Donwload template web**
 
@@ -70,7 +70,7 @@ pergi ke [Klik disini](https://github.com/heriistantoo/flaskdiabet) dan download
 
 6.	**Sesuaikan requirement sesuai dengan yang digunakan untuk membuat model**
 
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b8.png?raw=true" alt="SS" width="55%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b8.png?raw=true" alt="SS" width="35%"/>
 
 7.	**sesuaikan template html dan py**
 
@@ -280,9 +280,9 @@ if __name__ == "__main__": #`ctrl + /` if __main__ saat deploy di pythonanywhere
 python app.py
 
 ```
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b9.png?raw=true" alt="SS" width="55%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b9.png?raw=true" alt="SS" width="65%"/>
 
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15a10.png?raw=true" alt="SS" width="35%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b10.png?raw=true" alt="SS" width="35%"/>
 
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15b11.png?raw=true" alt="SS" width="35%"/>
 
