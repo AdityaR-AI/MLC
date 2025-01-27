@@ -10,10 +10,16 @@ Klik link dibawah ini untuk kembali ke menu utama:
 Silahkan klik link dibawah ini untuk menuju Step yang ingin dilihat:
 
 > [!NOTE]
+> Step 1 - Membuat Model [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P15/Predict-WEB-Step-1.md)
+
+> [!NOTE]
 > Step 2 - Mengaplikasikan Model ke Web [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P15/Predict-WEB-Step-2.md)
 
 > [!NOTE]
 > Step 3 - Deploy Hosting [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P15/Predict-WEB-Step-3.md)
+
+> [!NOTE]
+> **Link Hosting:** [https://adityari.pythonanywhere.com/](https://adityari.pythonanywhere.com/)
 
 1.	**Download dataset**
 Download dataset di [Pages Link](https://github.com/heriistantoo/save-sklearn)
@@ -349,10 +355,16 @@ round(accuracy_score(y_test, y_pred), 3)
 Silahkan klik link dibawah ini untuk menuju tugas yang ingin dilihat:
 
 > [!NOTE]
+> Step 1 - Membuat Model [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P15/Predict-WEB-Step-1.md)
+
+> [!NOTE]
 > Step 2 - Mengaplikasikan Model ke Web [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P15/Predict-WEB-Step-2.md)
 
 > [!NOTE]
 > Step 3 - Deploy Hosting [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P15/Predict-WEB-Step-3.md)
+
+> [!NOTE]
+> **Link Hosting:** [https://adityari.pythonanywhere.com/](https://adityari.pythonanywhere.com/)
 
 Klik link dibawah ini untuk kembali ke menu utama:
 
