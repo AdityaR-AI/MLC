@@ -30,7 +30,7 @@ Silahkan klik link dibawah ini untuk menuju Step yang ingin dilihat:
 3.	**add new web app > flask > python versi terbaru**
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c3.png?raw=true" alt="SS" width="40%"/>
 
-4.	**Buat file project jadi zip**
+4.	**Buat file project jadi zip, kecualiakan 'env', karena 'env' akan dibuat ulang oleh hosting**
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c4.png?raw=true" alt="SS" width="55%"/>
 
 5.	**Pergi ke menu file, arahkan ke folder mysite/ , lalu upload file zip tadi**
