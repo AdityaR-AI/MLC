@@ -129,7 +129,7 @@ dataku = pd.DataFrame(dataset)  # Mengonversi dataset menjadi DataFrame dan meny
 dataku.head()  # Menampilkan 5 baris pertama dari DataFrame 'dataku'
 
 ```
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b5.png?raw=true" alt="SS" width="40%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b5.png?raw=true" alt="SS" width="35%"/>
 
 ```python
 # Konversi ke data array
@@ -137,7 +137,7 @@ X = np.asarray(dataset)  # Mengonversi DataFrame 'dataset' menjadi array NumPy d
 print(X)  # Mencetak array 'X' ke layar
 
 ```
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b6.png?raw=true" alt="SS" width="40%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b6.png?raw=true" alt="SS" width="35%"/>
 
 ```python
 # Menampilkan data dalam bentuk scatter plot
@@ -148,7 +148,7 @@ plt.title("Grafik Konsumen")  # Menambahkan judul untuk grafik
 plt.show()  # Menampilkan grafik scatter plot
 
 ```
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b7.png?raw=true" alt="SS" width="40%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b7.png?raw=true" alt="SS" width="50%"/>
 
 ### Langkah 4: Menggunakan Library K-Means untuk Clustering
 ```python
@@ -185,7 +185,7 @@ kmeans = KMeans(n_clusters=2)  # Inisialisasi model KMeans dengan 2 cluster
 kmeans.fit(X)  # Latih model KMeans dengan data X
 
 ```
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b8.png?raw=true" alt="SS" width="40%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b8.png?raw=true" alt="SS" width="50%"/>
 
 ```python
 # Menampilkan nilai centroid
@@ -199,7 +199,7 @@ print(kmeans.cluster_centers_)  # Mencetak nilai centroid dari setiap cluster ya
 print(kmeans.labels_)  # Mencetak label yang diberikan oleh model KMeans untuk setiap data point dalam dataset
 
 ```
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b10.png?raw=true" alt="SS" width="60%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b10.png?raw=true" alt="SS" width="45%"/>
 
 ### Langkah 5: Menampilkan Output
 ```python
@@ -216,7 +216,7 @@ plt.title("Grafik Konsumen")  # Menambahkan judul pada grafik
 plt.show()  # Menampilkan grafik
 
 ```
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b11.png?raw=true" alt="SS" width="40%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b11.png?raw=true" alt="SS" width="35%"/>
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b12.png?raw=true" alt="SS" width="60%"/>
 
 ```python
@@ -233,7 +233,10 @@ plt.show()  # Menampilkan grafik
 ```
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P9/pic/11b12.png?raw=true" alt="SS" width="60%"/>
 
+Klik link dibawah ini untuk kembali ke menu utama:
 
+> [!TIP]
+> Kembali ke halaman utama, [Klik disini](https://github.com/AdityaR-AI/MLC/tree/main/)
 
 
 
