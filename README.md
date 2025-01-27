@@ -9,6 +9,9 @@ Silahkan klik link dibawah ini tuntuk menuju tugas yang ingin dilihat:
 > [!NOTE]
 > Tugas Pertemuan 9 - Clustering: K Means [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P9/Clustering_K-Means.md)
 
+> [!NOTE]
+> Tugas Pertemuan 11 - Percepteron [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P11/Percepteron.md)
+
 > [!TIP]
 > Bagian 1.
 
