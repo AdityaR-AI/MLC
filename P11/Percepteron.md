@@ -184,7 +184,7 @@ x1 x2 y
 
 ```
 
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P11/pic/11a10.png?raw=true" alt="SS" width="40%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P11/pic/11a10.png?raw=true" alt="SS" width="90%"/>
 
 2.	**Memanggil 2 model keras.models.Sequential dan model.compile dan set data** 
 ```python
