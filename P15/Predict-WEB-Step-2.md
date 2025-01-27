@@ -65,7 +65,7 @@ pergi ke [Klik disini](https://github.com/heriistantoo/flaskdiabet) dan download
   |-- requirements.txt
   |-- /static    (CSS, JS)
   |-- /templates (HTML files)
-  |-- knn_pickle (model yang sudah dipickle) #ganti dengan pickle yg sudah dibuat sendiri    distep 1
+  |-- knn_pickle (model yang sudah dipickle) #ganti dengan pickle yg sudah dibuat sendiri distep 1
 ```
 
 6.	**Sesuaikan requirement sesuai dengan yang digunakan untuk membuat model**
