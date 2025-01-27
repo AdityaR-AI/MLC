@@ -3,6 +3,15 @@
 
 Silahkan klik link dibawah ini tuntuk menuju tugas yang ingin dilihat:
 
+> [!TIP]
+> Bagian 2.
+
+> [!NOTE]
+> Tugas Pertemuan 9 - Clustering: K Means [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P9/Clustering_K-Means.md)
+
+> [!TIP]
+> Bagian 1.
+
 > [!NOTE]
 > Tugas 1 - Pendahuluan [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P1/Pendahuluan.md)
 
