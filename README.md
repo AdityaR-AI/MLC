@@ -19,7 +19,7 @@ Silahkan klik link dibawah ini tuntuk menuju tugas yang ingin dilihat:
 > Tugas Pertemuan 13 - Self Organizing Maps (SOM) [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P13/SOM.md)
 
 > [!NOTE]
-> Tugas Pertemuan 15 - Aplikasi Deteksi Diabetes berbasis Web [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P13/Predict-WEB.md)
+> Tugas Pertemuan 15 - Aplikasi Deteksi Diabetes berbasis Web [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P15/Predict-WEB-Step-1.md)
 
 > [!TIP]
 > Bagian 1.
