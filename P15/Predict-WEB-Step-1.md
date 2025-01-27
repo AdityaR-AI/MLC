@@ -353,7 +353,7 @@ round(accuracy_score(y_test, y_pred), 3)
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15a18.png?raw=true" alt="SS" width="25%"/>
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15a19.png?raw=true" alt="SS" width="10%"/>
 
-Silahkan klik link dibawah ini untuk menuju tugas yang ingin dilihat:
+Silahkan klik link dibawah ini untuk menuju Step yang ingin dilihat:
 
 > [!NOTE]
 > Step 1 - Membuat Model [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P15/Predict-WEB-Step-1.md)
