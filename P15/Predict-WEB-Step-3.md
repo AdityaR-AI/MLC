@@ -25,7 +25,7 @@ Silahkan klik link dibawah ini untuk menuju Step yang ingin dilihat:
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c1.png?raw=true" alt="SS" width="55%"/>
 
 2.	**pergi ke menu Web Apps**
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c2.png?raw=true" alt="SS" width="30%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c2.png?raw=true" alt="SS" width="25%"/>
 
 3.	**add new web app > flask > python versi terbaru**
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c3.png?raw=true" alt="SS" width="40%"/>
@@ -36,7 +36,7 @@ Silahkan klik link dibawah ini untuk menuju Step yang ingin dilihat:
 5.	**Pergi ke menu file, arahkan ke folder mysite/ , lalu upload file zip tadi**
 [https://www.pythonanywhere.com/user/AdityaRI/files/home/AdityaRI/mysite](https://www.pythonanywhere.com/user/AdityaRI/files/home/AdityaRI/mysite)
 
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c5.png?raw=true" alt="SS" width="25%"/>
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c5.png?raw=true" alt="SS" width="20%"/>
 
 6.	**Pergi ke Dashboard, klik ‘bash’ pada ‘New Console’**
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c6.png?raw=true" alt="SS" width="25%"/>
@@ -62,6 +62,7 @@ pip install -r /home/AdityaRI/mysite/requirements.txt
 8.	**setting halaman web**
 
 Pergi ke halaman web
+
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c8.png?raw=true" alt="SS" width="25%"/>
 
 Dibagian code, klik `/var/www/adityari_pythonanywhere_com_wsgi.py`
@@ -83,7 +84,8 @@ from app import app as application
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c11.png?raw=true" alt="SS" width="55%"/>
 
 Klik reload
-<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c12.png?raw=true" alt="SS" width="55%"/>
+
+<img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c12.png?raw=true" alt="SS" width="35%"/>
 
 9.	**Tes halaman,** [https://adityari.pythonanywhere.com/](https://adityari.pythonanywhere.com/)
 <img src="https://raw.githubusercontent.com/AdityaR-AI/MLC/main/P15/pic/15c13.png?raw=true" alt="SS" width="60%"/>
