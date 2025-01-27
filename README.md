@@ -15,6 +15,9 @@ Silahkan klik link dibawah ini tuntuk menuju tugas yang ingin dilihat:
 > [!NOTE]
 > Tugas Pertemuan 12 - Backpropagation [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P12/Backpropagation.md)
 
+> [!NOTE]
+> Tugas Pertemuan 13 - Self Organizing Maps (SOM) [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P13/SOM.md)
+
 > [!TIP]
 > Bagian 1.
 
