@@ -4,7 +4,7 @@
 Silahkan klik link dibawah ini tuntuk menuju tugas yang ingin dilihat:
 
 > [!TIP]
-> Bagian 2.
+> **Bagian 2**
 
 > [!NOTE]
 > Tugas Pertemuan 9 - Clustering: K Means [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P9/Clustering_K-Means.md)
@@ -22,7 +22,7 @@ Silahkan klik link dibawah ini tuntuk menuju tugas yang ingin dilihat:
 > Tugas Pertemuan 15 - Aplikasi Deteksi Diabetes berbasis Web [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P15/Predict-WEB-Step-1.md)
 
 > [!TIP]
-> Bagian 1.
+> **Bagian 1**
 
 > [!NOTE]
 > Tugas 1 - Pendahuluan [Pages Link](https://github.com/AdityaR-AI/MLC/tree/main/P1/Pendahuluan.md)
