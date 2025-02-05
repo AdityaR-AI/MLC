@@ -261,13 +261,13 @@ Model pickle ini adalah model yang akan diaplikasikan ke web
 # Mencetak informasi identitas
 print('Nama: Aditya Rimandi Putra')  # Mencetak nama lengkap
 print('NPM : 41155050210030\n')  # Mencetak Nomor Pokok Mahasiswa (NPM)
- 
+
 # Membuka file 'knn_pickle' dalam mode read binary ('rb')
 with open('knn_pickle', 'rb') as r:
     # Memuat model KNN dari file menggunakan pickle.load
-    loaded_model = pickle.load(r)
- 
-# Sekarang loaded_model adalah model KNN yang sudah dilatih dan siap digunakan
+    knnp = pickle.load(r)
+
+# Sekarang knnp adalah model KNN yang sudah dilatih dan siap digunakan
 
 ```
 
